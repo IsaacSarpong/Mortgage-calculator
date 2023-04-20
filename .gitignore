@@ -1,0 +1,8 @@
+venv/
+*cache*/
+cache*/
+*cache/
+table-jvsc-0525a178-8017-4adf-87a6-c53b8424b3c1b1433dca-cafd-426d-af67-c9eeb4ace2c3.ipynb
+table.ipynb
+*.ipynb_checkpoints
+.vscode/
