@@ -46,3 +46,6 @@ python
 img = cv2.imread('path/to/image.png', cv2.IMREAD_GRAYSCALE)
 shifted_img = shift_image(img, (-10, 0))
 Similarly, we can shift an image down, left, or right by changing the shift amount accordingly.
+
+## Conclusion
+In this project, we have learned how to shift a digit image up, down, left, and right using Python and the OpenCV library. This technique can be useful in various image processing applications such as image alignment and registration.
