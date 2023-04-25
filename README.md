@@ -14,3 +14,12 @@ sop.py: This is the main Python script that implements the S&OP process.
 README.md: This file, which contains information about the project.
 ## Zero-Stock Level Strategy
 The zero-stock level strategy is a simple approach to inventory management that maintains inventory levels at or near zero. Under this strategy, companies produce goods only when there is a demand for them. In other words, the inventory level is replenished only when it reaches zero.
+
+## S&OP Process
+The S&OP process implemented in this project consists of the following steps:
+
+Data input: The user is asked to enter the initial stock, the number of months to plan, and the planned sales quantity for each month.
+
+Data processing: The program calculates the ending stock for each month, the production quantity required to meet the demand, and the inventory level at the end of each month.
+
+Reporting: The results of the S&OP process are reported in an easy-to-understand format, including charts and tables that show the sales forecasts, demand plans, production plans, and inventory plans.
