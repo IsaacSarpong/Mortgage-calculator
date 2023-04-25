@@ -58,3 +58,9 @@ Total payment: $343,739.28
 
 ## Conclusion
 In this project, we have created a mortgage calculator using Python and the NumPy library. The calculator can be used to calculate the monthly payment and total payment for a mortgage based on the loan amount, interest rate, and loan term.
+
+|  | Project's Name                      | Description    | GitHub's Link  |
+|:--:|:--------------:|:--------------:|:--------------:|
+| 1 |  -Sales-and-Operation-Sales-Project|  -             | https://github.com/IsaacSarpong/Sales-and-Operation-Sales-Project      |
+| 2 |  -Shifting-Images                  |  -             | https://github.com/IsaacSarpong/Shifting-Images      |
+| 3 |  -Mortgage Calculator              |  -             | https://github.com/IsaacSarpong/Mortgage-calculator     |
