@@ -23,3 +23,16 @@ Data input: The user is asked to enter the initial stock, the number of months t
 Data processing: The program calculates the ending stock for each month, the production quantity required to meet the demand, and the inventory level at the end of each month.
 
 Reporting: The results of the S&OP process are reported in an easy-to-understand format, including charts and tables that show the sales forecasts, demand plans, production plans, and inventory plans.
+
+## How to Run
+To run the project, follow these steps:
+
+Install the required libraries by running pip install pandas matplotlib.
+
+Clone the repository to your local machine.
+
+Navigate to the project folder.
+
+Run python sop.py to execute the S&OP process.
+
+Enter the initial stock, the number of months to plan, and the planned sales quantity for each month as prompted.
