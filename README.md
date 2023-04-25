@@ -10,3 +10,15 @@ You can install the libraries using the following commands:
 
 pip install opencv-python
 pip install numpy
+
+## Image Dataset
+We will be using the MNIST dataset for this project. The MNIST dataset consists of handwritten digits and is widely used for image classification tasks.
+
+To download the MNIST dataset, you can use the following command:
+
+
+wget https://github.com/myleott/mnist_png/raw/master/mnist_png.tar.gz
+After downloading the dataset, extract it using the following command:
+
+tar -zxvf mnist_png.tar.gz
+The extracted folder will contain two subfolders, training and testing, which contain the images for training and testing respectively.
