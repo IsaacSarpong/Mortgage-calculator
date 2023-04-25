@@ -10,3 +10,16 @@ You can install the library using the following command:
 bash
 
 pip install numpy
+
+## Calculation Formula
+The formula for calculating the monthly payment for a mortgage is as follows:
+
+python
+
+M = P * (r * (1 + r) ** n) / ((1 + r) ** n - 1)
+where:
+
+M is the monthly payment
+P is the loan amount
+r is the monthly interest rate (calculated by dividing the annual interest rate by 12)
+n is the number of payments (calculated by multiplying the number of years by 12)
