@@ -36,3 +36,6 @@ Navigate to the project folder.
 Run python sop.py to execute the S&OP process.
 
 Enter the initial stock, the number of months to plan, and the planned sales quantity for each month as prompted.
+
+## Conclusion
+This project demonstrates how Python can be used to implement a simple Sales and Operations Planning process using the zero-stock level strategy. By simulating the S&OP process, companies can make better decisions and improve their inventory management practices.
